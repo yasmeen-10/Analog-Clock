@@ -1,0 +1,13 @@
+.clock {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #333;
+    border-radius: 50%;
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.hour-hand {
+    width: 40
+}
